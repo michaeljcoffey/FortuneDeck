@@ -9,10 +9,13 @@ As with the physical deck, each of the 36 cards has two meanings: one when dealt
 
 ## Code Example
 
->>> deal(3)
-[['Death, Upright: Change'], ['War, Upright: Great Effort'], ['The Dragon, Reversed: Blind Fury']]
->>> deal(1)
-[['The Soldier, Reversed: Blind Obedience']]
+deal(3)
+
+'Death, Upright: Change', 'War, Upright: Great Effort', 'The Dragon, Reversed: Blind Fury'
+
+deal(1)
+
+'The Soldier, Reversed: Blind Obedience'
 
 ## Motivation
 
